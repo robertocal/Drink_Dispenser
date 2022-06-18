@@ -1,4 +1,4 @@
-# Drink_Dispenser
+# Drink Dispenser
 This is a drink dispenser IoT system made with ESP32 and Blynk 2.0.
 
 The components used are:
